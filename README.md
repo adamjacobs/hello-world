@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First test repository
+First test repository.  Editted to see what happens.
+
+Seems straightforward enough.
